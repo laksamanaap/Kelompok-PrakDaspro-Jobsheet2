@@ -1,4 +1,3 @@
-package TugasPertemuan2;
 
 /**
  * biodataLaksamana
